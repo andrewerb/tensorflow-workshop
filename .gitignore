@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+.DS_Store
+
+# Ignore the "graphs" output directory
+examples/graphs/
+
